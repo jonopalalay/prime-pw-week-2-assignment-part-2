@@ -100,7 +100,7 @@ if (isStudent === true && zip > 80000 ) {
 //We make a boolean variable isStudent equal to true.
 //We make a variable age equal to 34.
 //We make a variable zip equal to 55407.
-//If the variable isStudent is true and zip is more than 80000,
+//If the variable isStudent is exact match to true and zip is more than 80000,
 //we console log 'You're a student on the West Coast!'.
 //Or else if the variable isStudent is false or age is less than 30,
 // we console.log 'Wat are your hobbies?'
