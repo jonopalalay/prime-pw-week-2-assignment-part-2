@@ -73,11 +73,12 @@ console.log(secret)
 
 // 3. WRITE YOUR DESCRIPTION HERE
 // We make a variable secret.
-// We make a number variable 123.
-// If code is exact match or true to 123, make the variable secret equal to super and
+// We make a variable code and make it equal to 123.
+// If variable code is exact match to 123, make the variable secret equal to super and
 // make the variable code equal to code times 2.
-// If code is more than 250, make the variable secret equal to duper.
-//
+// If code is greater than 250, make the variable secret equal to duper.
+// Then we console log whatever secret is, which is 'super'.
+
 
 //CODE
 /*
@@ -102,7 +103,7 @@ if (isStudent === true && zip > 80000 ) {
 //We make a variable zip equal to 55407.
 //If the variable isStudent is exact match to true and zip is more than 80000,
 //we console log 'You're a student on the West Coast!'.
-//Or else if the variable isStudent is false or age is less than 30,
+//Or else if the variable isStudent is exact match to false or age is less than 30,
 // we console.log 'Wat are your hobbies?'
 //Or else if the variable isStudent is an exact match to true, we console log
 //'Welcome to Prime!'
